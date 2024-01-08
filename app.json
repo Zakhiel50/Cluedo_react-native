@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ClueoCheckList",
+    "slug": "ClueoCheckList",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ClueoCheckList"
+}
